@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.4",
-    "grunt-bump": "0.0.13",
+    "grunt-bump": "^0.8.0",
     "grunt-contrib-connect": "^0.7.1",
     "grunt-contrib-handlebars": "^0.8.0",
     "grunt-contrib-requirejs": "^0.4.3",
